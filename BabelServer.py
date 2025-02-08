@@ -16,12 +16,15 @@ from flask import Flask, jsonify, request
 from flask import send_from_directory, abort
 from BabelChatManager import GBabelChatManager
 
+logger = logging.getLogger()
+logger.handlers.clear()
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 logPath = os.path.join(os.getcwd(), "Logs")
 if not os.path.exists(logPath):
     os.mkdir(logPath)
 file_handler = logging.FileHandler('Logs/BabelServer.log')
-logging.getLogger().addHandler(file_handler)
+file_handler.setLevel(logging.DEBUG)
+logger.addHandler(file_handler)
 
 app = Flask(__name__)
 
@@ -36,7 +39,8 @@ def AddChatRoom():
         resStr = json.dumps(retJson)
         logging.log(logging.INFO, f'AddChatRoom(): Sending result <<<{resStr}>>>')
         return resStr
-    except:
+    except Exception as e:
+        logging.log(logging.ERROR, f'AddChatRoom(): Exception {e}')
         return jsonify({})
 @app.route('/AddMessage', methods=['POST']) # ChatRoomId
 def AddMessage():
@@ -53,48 +57,50 @@ def AddMessage():
         resStr = json.dumps(retJson)
         logging.log(logging.INFO, f'AddMessage(): Sending result <<<{resStr}>>>')
         return resStr
-    except:
+    except Exception as e:
+        logging.log(logging.ERROR, f'AddMessage(): Exception {e}')
         return jsonify({})
 
 @app.route('/GetHistory', methods=['POST']) # ChatRoomId
 def GetHistory():
     try:
         data = request.get_json()
-        logging.log(logging.INFO, f'AddMessage(): received request = {data}')
+        logging.log(logging.INFO, f'GetHistory(): received request = {data}')
         chatRoomId = data['ChatRoomId']
-        userName = data['UserName']
-        language = ''
         retJson = GBabelChatManager.GetHistory(chatRoomId)
         resStr = json.dumps(retJson)
-        logging.log(logging.INFO, f'AddMessage(): Sending result <<<{resStr}>>>')
+        logging.log(logging.INFO, f'GetHistory(): Sending result <<<{resStr}>>>')
         return resStr
-    except:
+    except Exception as e:
+        logging.log(logging.ERROR, f'GetHistory(): Exception {e}')
         return jsonify({})
 
 @app.route('/AddUser', methods=['POST']) # ChatRoomId
 def AddUser():
     try:
         data = request.get_json()
-        logging.log(logging.INFO, f'AddMessage(): received request = {data}')
+        logging.log(logging.INFO, f'AddUser(): received request = {data}')
         userName = data['UserName']
         preferredLanguage = data['PreferredLanguage']
-        retJson = {"Result":GBabelChatManager.AddUser(userName, preferredLanguage)}
+        retJson = {"Result":GBabelChatManager.AddUserInfo(userName, preferredLanguage)}
         resStr = json.dumps(retJson)
-        logging.log(logging.INFO, f'AddMessage(): Sending result <<<{resStr}>>>')
+        logging.log(logging.INFO, f'AddUser(): Sending result <<<{resStr}>>>')
         return resStr
-    except:
+    except Exception as e:
+        logging.log(logging.ERROR, f'AddUser(): Exception {e}')
         return jsonify({})
 
 @app.route('/GetChatRooms', methods=['POST'])
 def GetChatRooms():
     try:
         data = request.get_json()
-        logging.log(logging.INFO, f'Check(): received request = {data}')
+        logging.log(logging.INFO, f'GetChatRooms(): received request = {data}')
         retJson = GBabelChatManager.GetChatRooms()
         resStr = json.dumps(retJson)
         # logging.log(logging.INFO, f'Sending query result <<<{resStr}>>>')
         return resStr
-    except:
+    except Exception as e:
+        logging.log(logging.ERROR, f'GetChatRooms(): Exception {e}')
         return jsonify({})
 
 @app.route('/<path:filename>', methods=['GET'])
@@ -109,7 +115,7 @@ def ServeResourceFile(filename):
         else:
             return send_from_directory("./Site", f'{filename}')
     except Exception as e:
-        logging.log(logging.WARNING, f"Error: {e}")
+        logging.log(logging.ERROR, f"Error: {e}")
         abort(500)
 
 

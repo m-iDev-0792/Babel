@@ -28,7 +28,7 @@ class ChatRoom:
     def __init__(self, Id):
         self.Id = Id
         self.History = []
-        self.Users = []
+        self.Users = set()
 
 
 class BabelChatManager:
@@ -53,7 +53,7 @@ class BabelChatManager:
         for chatRoomId in self.ChatRooms:
             userList = []
             for user in self.ChatRooms[chatRoomId].Users:
-                userList.append(user.UserName)
+                userList.append(user)
             roomInfo = {"RoomId": chatRoomId, "UserList": userList}
             ret.append(roomInfo)
         return ret
@@ -73,6 +73,7 @@ class BabelChatManager:
             msg = ChatMessage(userName, message, lang)
             msg.Translate()
             self.ChatRooms[chatRoomId].History.append(msg)
+            self.ChatRooms[chatRoomId].Users.add(userName)
             return self.GetHistory(chatRoomId)
 
 
