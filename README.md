@@ -72,6 +72,8 @@ ExpressiWay transcends linguistic barriers by enabling users to communicate thro
 ✔ **For everyone:** Encourages a **multimodal, creative** approach to communication.  
 
 ![image](https://github.com/user-attachments/assets/50a3006d-d537-4617-a8b6-a8b00ab924b9)
+![image](https://github.com/user-attachments/assets/9fd405a6-fea1-47e5-a307-f12eb49613ca)
+
 
 
 
