@@ -59,7 +59,7 @@ These questions inspired a group of **Human-Computer Interaction (HCI) researche
 It empowers **neurodivergent individuals** while also demonstrating to **the broader population** that communication is **not confined to words**.
 
 ### **🌍 How It Works**  
-ExpressiWay transcends linguistic barriers by enabling users to communicate through:  
+_**ExpressiWay**_ transcends linguistic barriers by enabling users to communicate through:  
 - 🟡 **Emojis**  
 - 🔵 **Kaomoji (Japanese emoticons)**  
 - 🟢 **Images & Visual Symbols**  
@@ -94,7 +94,7 @@ Most chat applications rely on **text and speech**.
 🔄 **ExpressiWay disrupts this model** by enabling **symbol-based, auditory, and visual expression**.
 
 ### **💡 Empowering Underrepresented Groups**  
-Unlike tools designed for **neurotypical users**, ExpressiWay was **built for neurodivergent individuals first**, adapting to **their natural ways of communication**.
+Unlike tools designed for **neurotypical users**, _**ExpressiWay**_ was **built for neurodivergent individuals first**, adapting to **their natural ways of communication**.
 
 ### **🌎 Decentralizing Language**  
 Traditional language follows strict **grammatical rules**.  
