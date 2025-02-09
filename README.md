@@ -127,7 +127,7 @@ not because they had nothing to say, but because they lacked the means to be hea
 
 But now, they are **silent no longer**.  
 
-> **Communication is not about language—it is about understanding.**  
+> _**Communication is not about language—it is about understanding.**  _
 
 🔹 **ExpressiWay is more than a technological innovation.**  
 🔹 **It is a movement toward inclusion, equality, and empathy.**  
