@@ -82,12 +82,27 @@ _**ExpressiWay**_ transcends linguistic barriers by enabling users to communicat
 🔹 **Figure on the right**：Multimodal Expression Function **(e.g, Kaomoji + Emoji)**
 
 
+## **4. Technology Behind _ExpressiWay_**
 
+### **Backend:**
+🚀 Developed using **Python & Flask**, ensuring a **lightweight yet powerful server** to handle communication efficiently.
+
+### **Frontend:**
+💡 Built with **JavaScript, HTML, and CSS**, creating a **smooth, user-friendly interface** that adapts to different communication styles.
+
+### **System Architecture:**
+- 📡 **RESTful API-based Communication** using Flask, allowing structured and secure client-server interactions.
+- 🤖 **Powered by a Fine-tuned Google Gemini Model** to generate multimodal responses, enhancing expressive communication.
+
+🔄 **_ExpressiWay_ uses RESTful APIs to handle chatroom interactions and message exchanges.** This ensures:
+✔ **Reliable request-response communication** between users and the server.\
+✔ **Structured data handling for chat histories and user preferences.**\
+✔ **Scalability to support multiple chatrooms and diverse user needs.**
 
 
 ---
 
-## **4. Why It Fits the 'Unconventional' Theme**  
+## **5. Why It Fits the 'Unconventional' Theme**  
 
 ### **🚀 Challenging Traditional Communication Norms**  
 Most chat applications rely on **text and speech**.  
@@ -102,7 +117,7 @@ Traditional language follows strict **grammatical rules**.
 
 ---
 
-## **5. Impact: A Communication Revolution**  
+## **6. Impact: A Communication Revolution**  
 
 The adoption of **ExpressiWay** has far-reaching effects:  
 
@@ -120,7 +135,7 @@ The adoption of **ExpressiWay** has far-reaching effects:
 
 ---
 
-## **6. Conclusion: A World That Listens**  
+## **7. Conclusion: A World That Listens**  
 
 For years, children like Kai have lived in a world that was silent—  
 not because they had nothing to say, but because they lacked the means to be heard.  
