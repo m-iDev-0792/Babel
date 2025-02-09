@@ -29,7 +29,7 @@ They **do** lack a communication method that truly aligns with how their minds w
 Parents, teachers, and peers **care deeply** but often feel powerless.  
 Why does a simple *"How was your day?"* cause such anxiety?  
 
-Many children with **ASD or ADHD** face:  
+Many children with **ASD** face:  
 - A communication system that does not accommodate their **cognitive diversity**.  
 - A **rigid linguistic framework** that fails to evolve with their needs.  
 
@@ -67,7 +67,7 @@ ExpressiWay transcends linguistic barriers by enabling users to communicate thro
 
 ### **🎯 Designed for Diverse Needs**  
 ✔ **For autistic children:** Reduces stress from text-based or verbal interactions.  
-✔ **For individuals with ADHD:** Eliminates long, overwhelming text inputs.  
+✔ **For individuals with ASD:** Eliminates long, overwhelming text inputs.  
 ✔ **For non-native speakers:** Provides intuitive expression beyond grammar constraints.  
 ✔ **For everyone:** Encourages a **multimodal, creative** approach to communication.  
 
