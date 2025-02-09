@@ -40,7 +40,7 @@ Many children with **ASD** face:
 ## **2. Objective: Finding a Language of Their Own**  
 
 ### *Breaking Free from Traditional Language*  
-We introduce **ExpressiWay**, an **innovative, non-verbal, multimodal communication tool** that **redefines expression**.
+We introduce _**ExpressiWay**_, an **innovative, non-verbal, multimodal communication tool** that **redefines expression**.
 
 💡 **What if language were not confined to words?**  
 💡 **What if communication could be visual, dynamic, and auditory?**  
@@ -55,7 +55,7 @@ These questions inspired a group of **Human-Computer Interaction (HCI) researche
 
 ## **3. How ExpressiWay Breaks Barriers**  
 
-**ExpressiWay challenges traditional communication paradigms** by breaking barriers beyond **text and speech**.  
+**_ExpressiWay_ challenges traditional communication paradigms** by breaking barriers beyond **text and speech**.  
 It empowers **neurodivergent individuals** while also demonstrating to **the broader population** that communication is **not confined to words**.
 
 ### **🌍 How It Works**  
