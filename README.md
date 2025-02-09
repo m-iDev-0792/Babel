@@ -78,12 +78,8 @@ ExpressiWay transcends linguistic barriers by enabling users to communicate thro
   <img src="https://github.com/user-attachments/assets/9fd405a6-fea1-47e5-a307-f12eb49613ca" alt="ExpressiWay Multimodal Features" width="45%"/>
 </p>
 
-🔹 **左侧图片**：展示 ExpressiWay 的核心聊天界面  
-🔹 **右侧图片**：展示多模态表达功能，如 Emoji、声音和图片结合  
-
-
-<img src="https://github.com/user-attachments/assets/50a3006d-d537-4617-a8b6-a8b00ab924b9" alt="ExpressiWay Demo" width="700"/>
-<img src="https://github.com/user-attachments/assets/9fd405a6-fea1-47e5-a307-f12eb49613ca" alt="ExpressiWay Demo" width="700"/>
+🔹 **Figure on the left**： the main user interface of _**ExpressiWay**_  
+🔹 **Figure on the right**：Multimodal Expression Function (e.g, text + Emoji)
 
 
 
