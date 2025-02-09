@@ -158,7 +158,7 @@ But now, they are **silent no longer**.
 
 [2] M. Vulchanova, V. Vulchanov, and M. Allen. 2023. Word learning in ASD: The sensorimotor, the perceptual and the symbolic. *J. Cult. Cogn. Sci.* 7, 9–22. DOI: [https://doi.org/10.1007/s41809-022-00117-9](https://doi.org/10.1007/s41809-022-00117-9)
 
-[link](https://github.com/m-iDev-0792/ExpressiWay/blob/main/README.md)
+[ReadMe](https://github.com/m-iDev-0792/ExpressiWay/blob/main/README.md)
 [菜鸟教程](https://www.runoob.com)
 
 
