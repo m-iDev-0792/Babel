@@ -1,4 +1,4 @@
-# **_ExpressiWay_: A Non-Verbal, Multimodal Chat Platform**  
+# **_ExpressiWay_ : A Non-Verbal, Multimodal Chat Platform**  
 ### *Where Every Voice Finds Its Perfect Path*  
 
 ---
