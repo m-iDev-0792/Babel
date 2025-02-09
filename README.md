@@ -3,7 +3,7 @@
 
 ## **Motivation: The Silence of a Child**
 
-Autism Spectrum Disorder (ASD) is a neurodevelopmental condition that affects an individual's ability to interact socially, communicate effectively, and process information. Many children with ASD or ADHD face significant challenges, including social isolation, communication barriers, and sensory overload. Traditional verbal communication often fails to accommodate their needs, making it difficult for them to express their thoughts and emotions.
+Autism Spectrum Disorder (ASD) is a neurodevelopmental condition that affects an individual's ability to interact socially, communicate effectively, and process information. Many children with ASD face significant challenges, including social isolation, communication barriers, and sensory overload. Traditional verbal communication often fails to accommodate their needs, making it difficult for them to express their thoughts and emotions.
 
 For these children, speaking can feel like navigating a dense forest filled with overwhelming noise—every word is hidden in the shadows of the trees, difficult to grasp.
 
