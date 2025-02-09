@@ -133,4 +133,4 @@ But now, they are **silent no longer**.
 🔹 **It is a movement toward inclusion, equality, and empathy.**  
 
 🌍 **The world does not need everyone to speak the same language.**  
-💡 **It only needs to ensure that every voice can be heard.**  
+💡 #**It only needs to ensure that every voice can be heard.**  
