@@ -1,4 +1,4 @@
-# **When the World Falls Silent**
+# **ExpressiWay: A Non-Verbal, Multimodal Chat Platform**
 
 ## **Motivation: The Silence of a Child**
 
