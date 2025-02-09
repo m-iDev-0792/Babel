@@ -1,4 +1,5 @@
 # **ExpressiWay: A Non-Verbal, Multimodal Chat Platform**
+*Where every voice finds its perfect path*
 
 ## **Motivation: The Silence of a Child**
 
