@@ -22,8 +22,8 @@ At school, they often avoid interactions:
 - **When asked a question**, they struggle to form a response, their thoughts like scattered puzzle pieces. 🧩  
 - **On the playground**, they remain in the corner, clutching their backpacks, while others chat freely. 🎒  
 
-They do **not** lack the desire to communicate.  
-They **do** lack a communication method that truly aligns with how their minds work.  
+They DO **NOT** lack the desire to communicate.  
+They **DO** lack a communication method that truly aligns with how their minds work.  
 
 ### *The Silent Struggle*  
 Parents, teachers, and peers **care deeply** but often feel powerless.  
