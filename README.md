@@ -74,7 +74,7 @@ ExpressiWay transcends linguistic barriers by enabling users to communicate thro
 ## 🎨 ExpressiWay User Interface
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/50a3006d-d537-4617-a8b6-a8b00ab924b9" alt="ExpressiWay Chat Interface" width="45.5%"/>
+  <img src="https://github.com/user-attachments/assets/50a3006d-d537-4617-a8b6-a8b00ab924b9" alt="ExpressiWay Chat Interface" width="45.4%"/>
   <img src="https://github.com/user-attachments/assets/9fd405a6-fea1-47e5-a307-f12eb49613ca" alt="ExpressiWay Multimodal Features" width="45%"/>
 </p>
 
