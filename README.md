@@ -92,7 +92,7 @@ _**ExpressiWay**_ transcends linguistic barriers by enabling users to communicat
 
 ### **System Architecture:**
 - 📡 **RESTful API-based Communication** using Flask, allowing structured and secure client-server interactions.
-- 🤖 **Powered by a Fine-tuned Google Gemini Model** to generate multimodal responses, enhancing expressive communication.
+- 🤖 **Powered by a Fine-tuned _Google Gemini Model_** to generate multimodal responses, enhancing expressive communication.
 
 🔄 **_ExpressiWay_ uses RESTful APIs to handle chatroom interactions and message exchanges.** This ensures: <br>
 ✔ **Reliable request-response communication** between users and the server.\
