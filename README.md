@@ -71,7 +71,7 @@ ExpressiWay transcends linguistic barriers by enabling users to communicate thro
 ✔ **For non-native speakers:** Provides intuitive expression beyond grammar constraints.  
 ✔ **For everyone:** Encourages a **multimodal, creative** approach to communication.  
 
-## 🎨 ExpressiWay User Interface
+## 🎨 ExpressiWay is
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/50a3006d-d537-4617-a8b6-a8b00ab924b9" alt="ExpressiWay Chat Interface" width="45.25%"/>
