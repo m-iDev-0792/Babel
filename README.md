@@ -6,7 +6,7 @@
 ## **1. Motivation: The Silence of a Child**  
 
 ### *The Challenge of Expression*  
-Autism Spectrum Disorder (ASD) is a neurodevelopmental condition that affects an individual's ability to interact socially, communicate effectively, and process information. Many children with ASD face significant challenges, including:  
+Autism Spectrum Disorder (ASD) <sup>[1]</sup> is a neurodevelopmental condition that affects an individual's ability to interact socially, communicate effectively, and process information. Many children with ASD face significant challenges, including:  
 
 - 🌐 **Social Isolation**  
 - 🔇 **Communication Barriers**  
