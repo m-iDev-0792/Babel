@@ -71,7 +71,7 @@ _**ExpressiWay**_ transcends linguistic barriers by enabling users to communicat
 ✔ **For non-native speakers:** Provides intuitive expression beyond grammar constraints.  
 ✔ **For everyone:** Encourages a **multimodal, creative** approach to communication.  
 
-## 🎨 ExpressiWay is
+## 🎨 _**ExpressiWay**_ is
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/50a3006d-d537-4617-a8b6-a8b00ab924b9" alt="ExpressiWay Chat Interface" width="45.25%"/>
@@ -91,14 +91,14 @@ _**ExpressiWay**_ transcends linguistic barriers by enabling users to communicat
 
 ### **🚀 Challenging Traditional Communication Norms**  
 Most chat applications rely on **text and speech**.  
-🔄 **ExpressiWay disrupts this model** by enabling **symbol-based, auditory, and visual expression**.
+🔄 **_ExpressiWay_ disrupts this model** by enabling **symbol-based, auditory, and visual expression**.
 
 ### **💡 Empowering Underrepresented Groups**  
 Unlike tools designed for **neurotypical users**, _**ExpressiWay**_ was **built for neurodivergent individuals first**, adapting to **their natural ways of communication**.
 
 ### **🌎 Decentralizing Language**  
 Traditional language follows strict **grammatical rules**.  
-**ExpressiWay allows free-form expression**, letting users **assemble communication** in an open-ended, personalized manner.
+**_ExpressiWay_ allows free-form expression**, letting users **assemble communication** in an open-ended, personalized manner.
 
 ---
 
