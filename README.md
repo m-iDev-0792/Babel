@@ -6,11 +6,11 @@
 ## **1. Motivation: The Silence of a Child**  
 
 ### *The Challenge of Expression*  
-Autism Spectrum Disorder (ASD) <sup>[1]</sup> is a neurodevelopmental condition that affects an individual's ability to interact socially, communicate effectively, and process information. Many children with ASD face significant challenges, including:  
+Autism Spectrum Disorder (ASD) <sup>[1]</sup> is a neurodevelopmental condition that affects an individual's ability to interact socially, communicate effectively, and process information. Many children with ASD face significant challenges, including <sup>[2]</sup>:  
 
 - 🌐 **Social Isolation**  
 - 🔇 **Communication Barriers**  
-- 🔊 **Sensory Overload**  
+- 🔊 **Sensory Overload**   
 
 Traditional verbal communication often fails to accommodate their needs, making it difficult for them to express their thoughts and emotions.  
 
@@ -154,7 +154,8 @@ But now, they are **silent no longer**.
 
 ### *References*
 
-[1] M. Vulchanova, V. Vulchanov, and M. Allen. 2023. Word learning in ASD: The sensorimotor, the perceptual and the symbolic. *J. Cult. Cogn. Sci.* 7, 9–22. DOI: [https://doi.org/10.1007/s41809-022-00117-9](https://doi.org/10.1007/s41809-022-00117-9)
+[1] National Institute of Mental Health. 2025. Autism Spectrum Disorder (ASD). *NIMH*. Available at: (https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd#:~:text=Autism spectrum disorder is a,first two years of life.)
 
-[2] National Institute of Mental Health. 2025. Autism Spectrum Disorder (ASD). *NIMH*. Available at: (https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd#:~:text=Autism spectrum disorder is a,first two years of life.)
+[2] M. Vulchanova, V. Vulchanov, and M. Allen. 2023. Word learning in ASD: The sensorimotor, the perceptual and the symbolic. *J. Cult. Cogn. Sci.* 7, 9–22. DOI: [https://doi.org/10.1007/s41809-022-00117-9](https://doi.org/10.1007/s41809-022-00117-9)
+
 
