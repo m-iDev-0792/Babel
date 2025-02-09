@@ -71,7 +71,8 @@ ExpressiWay transcends linguistic barriers by enabling users to communicate thro
 ✔ **For non-native speakers:** Provides intuitive expression beyond grammar constraints.  
 ✔ **For everyone:** Encourages a **multimodal, creative** approach to communication.  
 
-<video src="https://vimeo.com/1054933336/507298804c?share=copy"></video>
+![image](https://github.com/user-attachments/assets/50a3006d-d537-4617-a8b6-a8b00ab924b9)
+
 
 
 
