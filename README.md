@@ -27,7 +27,7 @@ They **DO** lack a communication method that truly aligns with how their minds w
 
 ### *The Silent Struggle*  
 Parents, teachers, and peers **care deeply** but often feel powerless.  
-Why does a simple *"How was your day?"* cause such anxiety?  
+Why does a simple ***"How was your day?"*** cause such anxiety?  
 
 Many children with **ASD** face:  
 - A communication system that does not accommodate their **cognitive diversity**.  
