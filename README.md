@@ -53,9 +53,8 @@ These questions inspired a group of **Human-Computer Interaction (HCI) researche
 
 ---
 
-## **3. ExpressiWay: A Non-Verbal, Multimodal Chat Platform**  
+## **3. How ExpressiWay Breaks Barriers **  
 
-### *Where Every Voice Finds Its Perfect Path*  
 **ExpressiWay challenges traditional communication paradigms** by breaking barriers beyond **text and speech**.  
 It empowers **neurodivergent individuals** while also demonstrating to **the broader population** that communication is **not confined to words**.
 
