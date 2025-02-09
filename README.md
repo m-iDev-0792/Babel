@@ -53,7 +53,7 @@ These questions inspired a group of **Human-Computer Interaction (HCI) researche
 
 ---
 
-## **3. How ExpressiWay Breaks Barriers **  
+## **3. How ExpressiWay Breaks Barriers**  
 
 **ExpressiWay challenges traditional communication paradigms** by breaking barriers beyond **text and speech**.  
 It empowers **neurodivergent individuals** while also demonstrating to **the broader population** that communication is **not confined to words**.
