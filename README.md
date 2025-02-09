@@ -129,7 +129,7 @@ But now, they are **silent no longer**.
 
 > _**Communication is not about language—it is about understanding.**_
 
-🔹 **ExpressiWay is more than a technological innovation.**  
+🔹 **_ExpressiWay_ is more than a technological innovation.**  
 🔹 **It is a movement toward inclusion, equality, and empathy.**  
 
 🌍 **The world does not need everyone to speak the same language.**  
