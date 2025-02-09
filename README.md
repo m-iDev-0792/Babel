@@ -79,7 +79,7 @@ ExpressiWay transcends linguistic barriers by enabling users to communicate thro
 </p>
 
 🔹 **Figure on the left**： the main user interface of _**ExpressiWay**_  
-🔹 **Figure on the right**：Multimodal Expression Function (e.g, text + Emoji)
+🔹 **Figure on the right**：Multimodal Expression Function **(e.g, Kaomoji + Emoji)**
 
 
 
