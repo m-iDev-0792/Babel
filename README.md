@@ -120,7 +120,7 @@ The adoption of **ExpressiWay** has far-reaching effects:
 
 ---
 
-## **6. Conclusion: A World That Finally Listens**  
+## **6. Conclusion: A World That Listens**  
 
 For years, children like Kai have lived in a world that was silent—  
 not because they had nothing to say, but because they lacked the means to be heard.  
